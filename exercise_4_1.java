@@ -89,27 +89,3 @@
 
 
 
-////finding the maximum of the number
-//public class exercise_4_1 {
-//    static void main() {
-//        Scanner input = new Scanner(System.in);
-//        System.out.println("enter the number : ");
-//        int number = input.nextInt();
-//        int max = 0;
-//        String string = String.valueOf(number);
-//
-//        for(int i=0; i < string.length(); i++){
-//            if((string.charAt(i) - '0') > max){
-//                max = string.charAt(i) - '0';
-//            }
-//        }
-//        int min = max;
-//        for (int i=0; i < string.length(); i++){
-//            if((string.charAt(i)-'0') < min){
-//                min = string.charAt(i)-'0';
-//            }
-//        }
-//        System.out.println("the maximum value is : "+ max);
-//        System.out.println("the maximum value is : "+ min);
-//    }
-//}
