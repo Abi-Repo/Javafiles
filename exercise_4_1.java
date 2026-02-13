@@ -113,29 +113,3 @@
 //        System.out.println("the maximum value is : "+ min);
 //    }
 //}
-
-
-//public class exercise_4_1 {
-//    static void main() {
-//
-//        Scanner input = new Scanner(System.in);
-//
-//        System.out.println("enter the number : ");
-//        int number = input.nextInt();
-//
-//        String string = String.valueOf(number);
-//        int evencount = 0, oddcount = 0;
-//
-//        for(int i=0; i<string.length(); i++){
-//            if((string.charAt(i)-'0')%2==0 ){
-//                evencount++;
-//            }else {
-//                oddcount++;
-//            }
-//        }
-//        System.out.println("the count of the even : "+ evencount);
-//        System.out.println("the count of the odd : "+ oddcount);
-//
-//    }
-//}
-
