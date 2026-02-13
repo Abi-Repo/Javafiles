@@ -1,4 +1,3 @@
-package javakunal;
 
 //import java.util.Scanner;
 //public class exercise_4_1 {
@@ -22,10 +21,7 @@ package javakunal;
 //    }
 //}
 
-//
-//import java.util.Scanner;
 
-import java.util.Scanner;
 
 ////Task: Take a number and print the sum of all its digits.
 //public class exercise_4_1 {
@@ -142,3 +138,4 @@ import java.util.Scanner;
 //
 //    }
 //}
+
